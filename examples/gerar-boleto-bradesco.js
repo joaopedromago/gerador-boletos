@@ -15,7 +15,7 @@ const init = () => {
     stream: writeStream
   }, (err, pdf) => {
     if (err) return console.error(err);
-
+    
     writeStream.on('finish', () => {
       console.log('written on temp!');
     });
