@@ -1,6 +1,6 @@
 {
   "name": "mago-gerador-boletos",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Gerador de boletos, utilizando a biblioteca PDFKit",
   "main": "index.js",
   "directories": {
